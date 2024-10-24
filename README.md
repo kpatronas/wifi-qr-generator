@@ -1,5 +1,5 @@
 # wifi-qr-generator
-A REST api to generate wifi QR 
+A REST api to generate wifi QR as png image.
 
 ## How to install requirements
 
